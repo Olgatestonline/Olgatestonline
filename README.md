@@ -1,7 +1,7 @@
 Hi 👋 My name is Olga Shkorubskaya
 ==================================
 
-QA Junior
+Junior QA
 ---------
 
 I'm starting a career in manual testing of web applications.<br>
