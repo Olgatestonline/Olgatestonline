@@ -4,10 +4,10 @@ Hi 👋 My name is Olga Shkorubskaya
 QA Junior
 ---------
 
-I'm starting a career in manual testing of web applications. 
-Completed a course for the «Test Engineer» on the Hexlet platform and recieved experience in creating small projects, as well as knowledge of testing theory and such tools as: MySql, DevTools, Postman, X-Mind. 
-I learned how to work with HTTP requests, mastered GIT, SQL and don’t stop on this. 
-Higher education in accounting and work experience in this field have developed in me such qualities as attention to detail, consistency and perfectionism, which are necessary in my new profession. I have an analytical mind and learn new things with joy. 
+I'm starting a career in manual testing of web applications.<br>
+Completed a course for the «Test Engineer» on the Hexlet platform and recieved experience in creating small projects, as well as knowledge of testing theory and such tools as: MySql, DevTools, Postman, X-Mind.<br> 
+I learned how to work with HTTP requests, mastered GIT, SQL and don’t stop on this.<br> 
+Higher education in accounting and work experience in this field have developed in me such qualities as attention to detail, consistency and perfectionism, which are necessary in my new profession. I have an analytical mind and learn new things with joy.<br> 
 I want to develop in the IT field to create large-scale and useful services in a team of like-minded people.
 
 *   ✉️  You can contact me at [olgatestonline@gmail.com](mailto:olgatestonline@gmail.com)
